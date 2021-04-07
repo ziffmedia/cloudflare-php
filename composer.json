@@ -1,5 +1,8 @@
 {
-  "name": "cloudflare/sdk",
+  "name": "ziffmedia/cloudflare-sdk",
+  "replace": {
+    "cloudflare/sdk": "1.1.6"
+  },
   "description": "PHP binding for v4 of the Cloudflare Client API.",
   "type": "library",
   "require": {
